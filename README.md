@@ -5,5 +5,6 @@
 
 ## 👨🏻‍🎓 About Me
 
+- Student
 - 19y
 - 🇧🇷 Brazillian
