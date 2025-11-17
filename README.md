@@ -4,7 +4,7 @@
 
 ## 🛠️ Tools and Languages I studied in the past
 
-<img src="https://skillicons.dev/icons?i=kotlin,java, androidstudio" height="40">
+<img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio" height="40">
 
 ## 👨🏻‍🎓 About Me
 
