@@ -8,7 +8,7 @@
 
 ## 👨🏻‍🎓 About Me
 
-- Student
+- Computer Science Student
 - 20y
 - 🇧🇷 Brazillian
-- Open Source enthusiast
+- Turning coffee into Free and Open Source Software ♥️
