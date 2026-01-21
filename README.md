@@ -11,4 +11,4 @@
 - Computer Science Student
 - 20y
 - 🇧🇷 Brazillian
-- Turning coffee into Free and Open Source Software ♥️
+- Turning coffee into Open Source Software
